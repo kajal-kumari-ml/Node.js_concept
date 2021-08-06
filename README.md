@@ -10,9 +10,9 @@ Node.js is a open source development plateform.it is a javascript running  on th
 Node.js is a lightweight,efficient performance,optimized cost and it handle many simultaneous request without straining the server.Communication b/w client and server happens very fast.That what i love about node.js.
 
 ## when we use node.js?
-## I/O bound :
+#### I/O bound :
 means when node.js interact with database,filesystem and network example user data
-# Data Streaming
+#### Data Streaming
 like Netflix,instagram and many more.
 
 
